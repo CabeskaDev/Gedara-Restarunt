@@ -653,6 +653,72 @@
     "Recipe": ""
   },
   {
+    "Item Name": "Extra Curry",
+    "Price": 50,
+    "Purchase Price": 52.5,
+    "Price Hints": "",
+    "Sold By": "Unit",
+    "Category": "T/A Portions",
+    "Barcode": 11002,
+    "SKU": "",
+    "Supplier Code": "",
+    "Pack Size": "",
+    "Collect Location": "KITCHEN",
+    "Taxable": "NO",
+    "No Service Charge": "NO",
+    "Has Inventory": "NO",
+    "Direct Sell": "YES",
+    "Produced": "YES",
+    "Description": "",
+    "Sufficient For": "",
+    "Food Type": "",
+    "Recommended": "NO",
+    "Unit of Measurement": "G",
+    "Ingredients": "",
+    "Waiting Time": "",
+    "Warning Stock Level": "",
+    "Color": "#e91e63",
+    "Recipe": [
+      {
+        "itemName": "LAMB",
+        "quantity": 0.2
+      }
+    ]
+  },
+  {
+    "Item Name": "Extra Curry",
+    "Price": 100,
+    "Purchase Price": 52.5,
+    "Price Hints": "",
+    "Sold By": "Unit",
+    "Category": "T/A Portions",
+    "Barcode": 11002,
+    "SKU": "",
+    "Supplier Code": "",
+    "Pack Size": "",
+    "Collect Location": "KITCHEN",
+    "Taxable": "NO",
+    "No Service Charge": "NO",
+    "Has Inventory": "NO",
+    "Direct Sell": "YES",
+    "Produced": "YES",
+    "Description": "",
+    "Sufficient For": "",
+    "Food Type": "",
+    "Recommended": "NO",
+    "Unit of Measurement": "G",
+    "Ingredients": "",
+    "Waiting Time": "",
+    "Warning Stock Level": "",
+    "Color": "#e91e63",
+    "Recipe": [
+      {
+        "itemName": "LAMB",
+        "quantity": 0.2
+      }
+    ]
+  },
+  {
     "Item Name": "Lamb Curry Portion",
     "Price": 750,
     "Purchase Price": 552.5,
