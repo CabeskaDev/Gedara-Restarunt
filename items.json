@@ -404,6 +404,72 @@
     ]
   },
   {
+    "Item Name": "CauseWay Dinner Large",
+    "Price": 900,
+    "Purchase Price": 740,
+    "Price Hints": "",
+    "Sold By": "Unit",
+    "Category": "R / C",
+    "Barcode": 10011,
+    "SKU": "",
+    "Supplier Code": "",
+    "Pack Size": "",
+    "Collect Location": "KITCHEN",
+    "Taxable": "NO",
+    "No Service Charge": "NO",
+    "Has Inventory": "NO",
+    "Direct Sell": "YES",
+    "Produced": "NO",
+    "Description": "",
+    "Sufficient For": "",
+    "Food Type": "",
+    "Recommended": "NO",
+    "Unit of Measurement": "",
+    "Ingredients": "",
+    "Waiting Time": "",
+    "Warning Stock Level": "",
+    "Color": "#03a9f4",
+    "Recipe": [
+      {
+        "itemName": "THALAPATH",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "Item Name": "CauseWay Dinner Small",
+    "Price": 500,
+    "Purchase Price": 240,
+    "Price Hints": "",
+    "Sold By": "Unit",
+    "Category": "R / C",
+    "Barcode": 10011,
+    "SKU": "",
+    "Supplier Code": "",
+    "Pack Size": "",
+    "Collect Location": "KITCHEN",
+    "Taxable": "NO",
+    "No Service Charge": "NO",
+    "Has Inventory": "NO",
+    "Direct Sell": "YES",
+    "Produced": "NO",
+    "Description": "",
+    "Sufficient For": "",
+    "Food Type": "",
+    "Recommended": "NO",
+    "Unit of Measurement": "",
+    "Ingredients": "",
+    "Waiting Time": "",
+    "Warning Stock Level": "",
+    "Color": "#03a9f4",
+    "Recipe": [
+      {
+        "itemName": "THALAPATH",
+        "quantity": 1
+      }
+    ]
+  },
+  {
     "Item Name": "Fried Chicken leg",
     "Price": 550,
     "Purchase Price": 225,
