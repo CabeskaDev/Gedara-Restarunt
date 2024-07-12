@@ -15608,6 +15608,96 @@
     "Recipe": ""
   },
   {
+    "Item Name": "NaasiGuran (S)",
+    "Price": 850,
+    "Purchase Price": 263,
+    "Price Hints": "",
+    "Sold By": "Unit",
+    "Category": "Biriyani",
+    "Barcode": "",
+    "SKU": "",
+    "Supplier Code": "",
+    "Pack Size": "",
+    "Collect Location": "",
+    "Taxable": "NO",
+    "No Service Charge": "NO",
+    "Has Inventory": "YES",
+    "Direct Sell": "YES",
+    "Produced": "YES",
+    "Description": "",
+    "Sufficient For": "",
+    "Food Type": "",
+    "Recommended": "NO",
+    "Unit of Measurement": "",
+    "Ingredients": "",
+    "Waiting Time": "",
+    "Warning Stock Level": "",
+    "Color": "#03a9f4",
+    "Recipe": [
+      {
+        "itemName": "BASMATHI",
+        "quantity": 0.166
+      },
+      {
+        "itemName": "LUNCH BOX BUFF",
+        "quantity": 1
+      },
+      {
+        "itemName": "LUNCH SHEET",
+        "quantity": 1
+      },
+      {
+        "itemName": "SHOPIN",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "Item Name": "NaasiGuran (L)",
+    "Price": 1100,
+    "Purchase Price": 263,
+    "Price Hints": "",
+    "Sold By": "Unit",
+    "Category": "Biriyani",
+    "Barcode": "",
+    "SKU": "",
+    "Supplier Code": "",
+    "Pack Size": "",
+    "Collect Location": "",
+    "Taxable": "NO",
+    "No Service Charge": "NO",
+    "Has Inventory": "YES",
+    "Direct Sell": "YES",
+    "Produced": "YES",
+    "Description": "",
+    "Sufficient For": "",
+    "Food Type": "",
+    "Recommended": "NO",
+    "Unit of Measurement": "",
+    "Ingredients": "",
+    "Waiting Time": "",
+    "Warning Stock Level": "",
+    "Color": "#03a9f4",
+    "Recipe": [
+      {
+        "itemName": "BASMATHI",
+        "quantity": 0.166
+      },
+      {
+        "itemName": "LUNCH BOX BUFF",
+        "quantity": 1
+      },
+      {
+        "itemName": "LUNCH SHEET",
+        "quantity": 1
+      },
+      {
+        "itemName": "SHOPIN",
+        "quantity": 1
+      }
+    ]
+  },
+  {
     "Item Name": "Vege Biriyani (s)",
     "Price": 450,
     "Purchase Price": 263,
